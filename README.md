@@ -7,9 +7,9 @@
 <h3 align="center">Full-Stack Software Engineer | JavaScript • React • Node.js • Express • MongoDB • PostgreSQL • Python</h3>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
   <a href="https://www.linkedin.com/in/tom-rhys-jones-63b553209/">LinkedIn</a> •
   <a href="mailto:tomrhysjones1234@gmail.com">Email</a>
+  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
 </p>
 
 ---
