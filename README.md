@@ -77,9 +77,9 @@ A full-stack Node.js application that allows users to securely record and manage
 
 **Tech Stack:** Node.js • Express • MongoDB • Mongoose • EJS
 
-🔗 **Live Demo:** YOUR_LINK
+🔗 **Live Demo:** https://giiglog-9baf058f53ab.herokuapp.com/gigs
 
-🔗 **Repository:** YOUR_LINK
+🔗 **Repository:** YOUR_LINK 
 
 ---
 
@@ -89,7 +89,7 @@ A full-stack MERN application enabling musicians to organise songs and build reu
 
 **Tech Stack:** React • Node.js • Express • MongoDB • JWT
 
-🔗 **Live Demo:** YOUR_LINK
+🔗 **Live Demo:** https://setlistlab-frontend-8e968661be01.herokuapp.com/
 
 🔗 **Front-End Repository:** YOUR_LINK
 
@@ -103,7 +103,7 @@ A Django CRUD application for managing a personal vinyl collection with secure a
 
 **Tech Stack:** Python • Django • PostgreSQL
 
-🔗 **Live Demo:** YOUR_LINK
+🔗 **Live Demo:** https://record-shelf-f64637b175bf.herokuapp.com/
 
 🔗 **Repository:** YOUR_LINK
 
