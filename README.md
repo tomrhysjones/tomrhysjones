@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Tom Rhys Jones">
+</p>
+
 <h1 align="center">Hi, I'm Tom Rhys Jones 👋</h1>
 
 <h3 align="center">Full-Stack Software Engineer | JavaScript • React • Node.js • Express • MongoDB • PostgreSQL • Python</h3>
