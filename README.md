@@ -79,7 +79,7 @@ A full-stack Node.js application that allows users to securely record and manage
 
 🔗 **Live Demo:** https://giiglog-9baf058f53ab.herokuapp.com/gigs
 
-🔗 **Repository:** YOUR_LINK 
+🔗 **Repository:** https://github.com/tomrhysjones/giglog
 
 ---
 
@@ -91,9 +91,9 @@ A full-stack MERN application enabling musicians to organise songs and build reu
 
 🔗 **Live Demo:** https://setlistlab-frontend-8e968661be01.herokuapp.com/
 
-🔗 **Front-End Repository:** YOUR_LINK
+🔗 **Front-End Repository:** https://github.com/tomrhysjones/setlistlab-frontend
 
-🔗 **Back-End Repository:** YOUR_LINK
+🔗 **Back-End Repository:** https://github.com/tomrhysjones/setlistlab-backend
 
 ---
 
@@ -105,7 +105,7 @@ A Django CRUD application for managing a personal vinyl collection with secure a
 
 🔗 **Live Demo:** https://record-shelf-f64637b175bf.herokuapp.com/
 
-🔗 **Repository:** YOUR_LINK
+🔗 **Repository:** https://github.com/tomrhysjones/record-shelf
 
 ---
 
@@ -115,9 +115,7 @@ A browser-based JavaScript memory game featuring responsive design, animations a
 
 **Tech Stack:** JavaScript • HTML • CSS
 
-🔗 **Live Demo:** YOUR_LINK
-
-🔗 **Repository:** YOUR_LINK
+🔗 **Repository:** YOUR_LINK https://github.com/tomrhysjones/ocean-match
 
 ---
 
