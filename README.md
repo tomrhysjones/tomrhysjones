@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tom-rhys-jones-63b553209/">LinkedIn</a> •
-  <a href="mailto:tomrhysjones1234@gmail.com">Email</a>
+  <a href="mailto:tomrhysjones1234@gmail.com">Email</a> •
   <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
 </p>
 
