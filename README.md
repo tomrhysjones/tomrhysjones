@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/tom-rhys-jones-63b553209/">LinkedIn</a> •
   <a href="mailto:tomrhysjones1234@gmail.com">Email</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
+  <a href="https://portfolio-olive-mu-34.vercel.app/">Portfolio</a> •
 </p>
 
 ---
@@ -123,7 +123,7 @@ A browser-based JavaScript memory game featuring responsive design, animations a
 
 I'm always happy to connect with software engineers, recruiters and fellow developers.
 
-🌐 **Portfolio:** YOUR_PORTFOLIO_URL
+🌐 **Portfolio:** https://portfolio-olive-mu-34.vercel.app/
 
 💼 **LinkedIn:** https://www.linkedin.com/in/tom-rhys-jones-63b553209/
 
