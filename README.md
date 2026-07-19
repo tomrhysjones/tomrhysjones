@@ -1,8 +1,5 @@
 <img width="1536" height="1024" alt="banner-accent300" src="https://github.com/user-attachments/assets/192075ff-0c3f-4ad7-8238-5317fe9e5a4e" />
 
-<p align="center">
-  <img src="banner.png" alt="Tom Rhys Jones Banner" width="100%">
-</p>
 
 <h1 align="center">Hi, I'm Tom Rhys Jones 👋</h1>
 
