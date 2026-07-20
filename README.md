@@ -16,18 +16,19 @@
 
 ## 👨‍💻 About Me
 
-I'm a London-based Full-Stack Software Engineer with a background in commercial digital marketing and recently completed General Assembly's Software Engineering Immersive.
+I'm a Full-Stack Software Engineer with a background in digital marketing and a recent graduate of General Assembly's Software Engineering Immersive.
 
-I enjoy building modern web applications using JavaScript, React, Node.js, Express, Python and SQL, with a particular interest in music, productivity and solving real-world problems through software.
+I build responsive, user-focused web applications using JavaScript, React, Node.js, Express, Python, PostgreSQL and MongoDB. I enjoy turning ideas into practical software with clean code, intuitive user experiences and real-world purpose.
 
-I'm currently looking for my first Junior Software Engineering opportunity where I can continue developing my technical skills whilst contributing to a collaborative engineering team.
+My projects span the MERN, MEN and Django stacks, covering authentication, RESTful APIs, CRUD functionality and responsive front-end development. Before moving into software engineering, I worked in commercial digital marketing, giving me a strong understanding of user behaviour, product thinking and business objectives.
+
+I'm currently seeking my first Junior or Graduate Software Engineering opportunity where I can continue learning, contribute to meaningful products and grow within a collaborative engineering team.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### Languages
-
 - JavaScript (ES6+)
 - Python
 - Java
@@ -36,90 +37,85 @@ I'm currently looking for my first Junior Software Engineering opportunity where
 - CSS3
 
 ### Front-End
-
 - React
 - Vite
-- Context API
 - Responsive Design
 - CSS Grid
 - Flexbox
 
 ### Back-End
-
 - Node.js
-- Express
+- Express.js
 - Django
-- REST APIs
+- RESTful APIs
 - JWT Authentication
 
 ### Databases
-
 - MongoDB
 - PostgreSQL
 
 ### Tools
-
 - Git
 - GitHub
 - VS Code
 - Postman
-- Render
-- Netlify
 - Heroku
+- Vercel
+- Render
 
 ---
 
 # 🚀 Featured Projects
 
-## 🎵 GigLog
-
-A full-stack Node.js application that allows users to securely record and manage live music events they've attended.
-
-**Tech Stack:** Node.js • Express • MongoDB • Mongoose • EJS
-
-🔗 **Live Demo:** https://giiglog-9baf058f53ab.herokuapp.com/gigs
-
-🔗 **Repository:** https://github.com/tomrhysjones/giglog
-
----
-
 ## 🎸 SetlistLab
 
-A full-stack MERN application enabling musicians to organise songs and build reusable setlists for live performances.
+A full-stack MERN application that enables musicians to organise songs and build reusable setlists for live performances.
 
 **Tech Stack:** React • Node.js • Express • MongoDB • JWT
 
-🔗 **Live Demo:** https://setlistlab-frontend-8e968661be01.herokuapp.com/
+🌐 **Live Demo:** https://setlistlab-frontend-8e968661be01.herokuapp.com/
 
-🔗 **Front-End Repository:** https://github.com/tomrhysjones/setlistlab-frontend
+💻 **Front-End Repository:** https://github.com/tomrhysjones/setlistlab-frontend
 
-🔗 **Back-End Repository:** https://github.com/tomrhysjones/setlistlab-backend
+💻 **Back-End Repository:** https://github.com/tomrhysjones/setlistlab-backend
+
+---
+
+## 🎵 GigLog
+
+A full-stack MEN application for securely recording, organising and managing live gig experiences.
+
+**Tech Stack:** Node.js • Express • MongoDB • Mongoose • EJS
+
+🌐 **Live Demo:** https://giiglog-9baf058f53ab.herokuapp.com/gigs
+
+💻 **Repository:** https://github.com/tomrhysjones/giglog
 
 ---
 
 ## 💿 Record Shelf
 
-A Django CRUD application for managing a personal vinyl collection with secure authentication and PostgreSQL.
+A full-stack Django application for cataloguing, organising and reviewing personal vinyl collections.
 
 **Tech Stack:** Python • Django • PostgreSQL
 
-🔗 **Live Demo:** https://record-shelf-f64637b175bf.herokuapp.com/
+🌐 **Live Demo:** https://record-shelf-f64637b175bf.herokuapp.com/
 
-🔗 **Repository:** https://github.com/tomrhysjones/record-shelf
+💻 **Repository:** https://github.com/tomrhysjones/record-shelf
 
 ---
 
 ## 🌊 Ocean Match
 
-A browser-based JavaScript memory game featuring responsive design, animations and multiple difficulty levels.
+A browser-based JavaScript memory game featuring responsive gameplay, animations and multiple difficulty levels.
 
 **Tech Stack:** JavaScript • HTML • CSS
 
-🔗 **Repository:** YOUR_LINK https://github.com/tomrhysjones/ocean-match
+💻 **Repository:** https://github.com/tomrhysjones/ocean-match
 
 ---
 
-## 📫 Let's Connect
+# 📫 Let's Connect
 
 I'm always happy to connect with software engineers, recruiters and fellow developers.
 
